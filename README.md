@@ -1,0 +1,2 @@
+# discord-bot
+SaveTheWorldIsraelShop Bot
